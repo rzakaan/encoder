@@ -1,0 +1,15 @@
+# general
+.DS_Store
+.gradle
+
+# binary
+.bin
+
+# python build
+__pycache__
+
+# cpp object
+.o
+
+# java object
+.class
